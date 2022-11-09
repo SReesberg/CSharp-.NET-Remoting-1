@@ -1,0 +1,6 @@
+C:\Users\stefa\source\repos\ExamPrepExercise7RemotableObject\ExamPrepExercise7RemotableObject\bin\Debug\ExamPrepExercise7RemotableObject.dll
+C:\Users\stefa\source\repos\ExamPrepExercise7RemotableObject\ExamPrepExercise7RemotableObject\bin\Debug\ExamPrepExercise7RemotableObject.pdb
+C:\Users\stefa\source\repos\ExamPrepExercise7RemotableObject\ExamPrepExercise7RemotableObject\obj\Debug\ExamPrepExercise7RemotableObject.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\ExamPrepExercise7RemotableObject\ExamPrepExercise7RemotableObject\obj\Debug\ExamPrepExercise7RemotableObject.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\ExamPrepExercise7RemotableObject\ExamPrepExercise7RemotableObject\obj\Debug\ExamPrepExercise7RemotableObject.dll
+C:\Users\stefa\source\repos\ExamPrepExercise7RemotableObject\ExamPrepExercise7RemotableObject\obj\Debug\ExamPrepExercise7RemotableObject.pdb

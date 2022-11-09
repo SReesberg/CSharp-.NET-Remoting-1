@@ -1,0 +1,10 @@
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\bin\Debug\ExamPrepExercise7Server.exe.config
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\bin\Debug\ExamPrepExercise7Server.exe
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\bin\Debug\ExamPrepExercise7Server.pdb
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\bin\Debug\ExamPrepExercise7RemotableObject.dll
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\bin\Debug\ExamPrepExercise7RemotableObject.pdb
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\obj\Debug\ExamPrepExercise7Server.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\obj\Debug\ExamPrepExercise7Server.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\obj\Debug\ExamPrepExercise7Server.csproj.CopyComplete
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\obj\Debug\ExamPrepExercise7Server.exe
+C:\Users\stefa\source\repos\ExamPrepExercise7Server\ExamPrepExercise7Server\obj\Debug\ExamPrepExercise7Server.pdb
